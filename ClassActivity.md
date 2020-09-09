@@ -14,3 +14,20 @@ Working with your classmates in your breakout rooms, and referencing my slides f
 Note that in Github you can click "Preview changes" to see what the final results are going to look like. 
      
 To turn this in, copy/paste the unrendered Markdown text (with the _ and * and such, from the edit file tab) into the assignment on blackboard.     
+
+> You do not find the happy life. You Make it. 
+[Quote link](https://www.quotespedia.org/authors/c/camilla-eyring-kimball/you-do-not-find-the-happy-life-you-make-it-camilla-eyring-kimball/)
+
+|**Course Number**| *Course Title*  |  Instructor Name|
+|:----------------|-----------------|:----------------|
+|Data 2401        |Data Science 1   |Dr. Shoemaker    |
+|Math 2305        | Discrete Math   |Dr. Davila       |
+|CS 1311          |Python 1         |Dr. Henderson    |
+|UHD 2303         |University Seminar|Dr. Parker      |
+
+# **Creating Multiple File**
+```
+ touch File1 File2 File3
+```
+- It will create multiple files at once. 
+- It is easy to create multiple empty files without having the information in it.
